@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvu:home|Door43 (kvu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvu|d43-kvu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvu/archive/master.zip|d43-kvu.zip]]
+
+**Recent Changes**
+{{changes>ns = kvu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvu|Ethnologue data]]
+
